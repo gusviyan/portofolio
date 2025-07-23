@@ -498,7 +498,7 @@ header .nav-inner ul li a:hover::before{
 }
 .about-text .skill-items{
 	background-color:var(--white-alpha-25);
-	border:1px soid var(--white-alpha-40);
+	border:1px solid var(--white-alpha-40);
 	padding:5px 15px;
 	text-transform:capitalize;
 	margin:0px 10px 10px 0;
